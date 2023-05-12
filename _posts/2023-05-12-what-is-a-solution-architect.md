@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  What is a Solution Architect
-date:   2023-05-11 21:21:21
+title:  What is a Solution Architect?
+date:   2023-05-12 10:00:00
 categories:
  - life
  - universe
@@ -12,12 +12,11 @@ tags:
  - skill
  - qualification
 ---
-
-## Overview
+### Overview
 
 A Solution Architect is a professional responsible for designing and overseeing the implementation of technology solutions for a particular business problem or set of requirements. They work closely with stakeholders to understand their needs and goals, and then design and communicate a comprehensive solution that meets those needs while also taking into account technical feasibility, budget constraints, and other factors.
 
-## Responsibilities
+### Responsibilities
 
  - Design and document technical solutions that align with business requirements and goals.
  - Collaborate with stakeholders to understand their needs and goals, and make recommendations for technical solutions.
@@ -27,7 +26,7 @@ A Solution Architect is a professional responsible for designing and overseeing 
  - Identify and mitigate technical risks.
  - Ensure technical solutions are scalable and maintainable over time.
  
- ## Skills and Qualifications
+### Skills and Qualifications
  
   - Bachelor's or Master's degree in Computer Science, Information Technology, or related field.
   - Several years of experience in software development, infrastructure design, or related field.
