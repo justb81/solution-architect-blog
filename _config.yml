@@ -3,10 +3,14 @@ name:         My live as a Solution Architect
 tagline:      A blog about the life, the universe and everything about Solution Architecture
 baseurl:      ""
 locale:       "en"
+description: This blog is about solution architecture, how to get a job, how to be a solution architect, best practises for all the topics and all the rest.
+defaults:            
+  - scope:
 
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-seo-tag 
 
 #Others
 markdown: kramdown
