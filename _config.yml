@@ -4,13 +4,15 @@ tagline:      A blog about the life, the universe and everything about Solution 
 baseurl:      ""
 locale:       "en"
 description: This blog is about solution architecture, how to get a job, how to be a solution architect, best practises for all the topics and all the rest.
+page_excerpts    : true
+permalink: /:slugified_categories/:slug
 defaults:            
   -
     scope:
       path: "" # ein leerer string an dieser Stelle bezieht alle Projektateien ein
       type: "posts"
     values:
-      layout              : "default"
+      layout              : "post"
 # Gems
 gems:
   - jekyll-paginate
