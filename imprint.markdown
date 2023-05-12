@@ -11,7 +11,6 @@ categories       :
 date             : 
 tags             :
 permalink        : /imprint/
-published        : true
 ---
 # Impressum
 

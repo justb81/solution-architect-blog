@@ -2,7 +2,15 @@
 layout: post
 title:  What is a Solution Architect
 date:   2023-05-12 21:21:21
-categories: life universe everything
+categories:
+ - life
+ - universe
+ - everything
+tags:
+ - solution architect
+ - responsibility
+ - skill
+ - qualification
 ---
 ## Overview
 
