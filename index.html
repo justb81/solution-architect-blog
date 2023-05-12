@@ -14,9 +14,13 @@ permalink        : index.html
 ---
 <div id="home">
   <h1>Blog Posts about solution architecture</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+  <section class="posts">
+    {% for post in site.posts limit:5 %}
+      <article>
+        <h2><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+        <p>{{ post.excerpt }}</p>
+        <p><a href="{{ site.baseurl }}{{ post.url }}">Read full article "{{ post.title }}"</a></p>
+      </article>
     {% endfor %}
-  </ul>
+  </section>
 </div>

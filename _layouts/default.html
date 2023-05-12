@@ -18,10 +18,15 @@
         </section>
 
         <aside id="sidebar">
-          
+          <h1>Blog Posts about solution architecture</h1>
+          <ul class="posts">
+            {% for post in site.posts limit:3 %}
+              <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
         </aside>
+        {% include footer.html %}
       </div>
     </div>
-    {% include footer.html %}
   </body>
 </html>
