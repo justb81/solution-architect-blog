@@ -1,10 +1,20 @@
 ---
-layout: default
-title: Architect Theme by Jason Long
+layout           : page
+title            : Solution Architects blog
+teaser           :
+image            :
+icon             :
+youtube-video-id :
+embed            :
+comments         : false
+categories       :
+date             : 2023-05-12 00:00:00
+tags             :
+permalink        : /imprint/
+published        : true
 ---
-
 <div id="home">
-  <h1>Blog Posts</h1>
+  <h1>Blog Posts about solution architecture</h1>
   <ul class="posts">
     {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
