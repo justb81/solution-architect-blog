@@ -16,7 +16,6 @@ defaults:
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll-seo-tag 
 
 #Others
 markdown: kramdown
