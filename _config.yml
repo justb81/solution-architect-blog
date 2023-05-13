@@ -1,7 +1,7 @@
 # Setup
 name:         My life as a Solution Architect
 tagline:      A blog about the life, the universe and everything about Solution Architecture
-baseurl:      ""
+baseurl:      "https://solution-architect.blog/"
 locale:       "en"
 description: This blog is about solution architecture, how to get a job, how to be a solution architect, best practises for all the topics and all the rest.
 page_excerpts    : true
@@ -9,7 +9,7 @@ permalink: /:slugified_categories/:slug
 defaults:            
   -
     scope:
-      path: "" # ein leerer string an dieser Stelle bezieht alle Projektateien ein
+      path: ""
       type: "posts"
     values:
       layout              : "post"
