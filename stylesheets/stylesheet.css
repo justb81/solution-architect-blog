@@ -512,8 +512,8 @@ aside#sidebar p.repo-owner a {
 }
 
 footer > .footer {
-  padding-top: 8rem;
-  border-top:1px dashed rgba(0, 0, 0, 0.67)
+  margin-top: 8rem;
+  border-top:1px dashed rgba(0, 0, 0, 0.2)
 }
 
 
