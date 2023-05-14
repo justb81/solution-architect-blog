@@ -512,7 +512,7 @@ aside#sidebar p.repo-owner a {
 }
 
 footer {
-  margin-top: 8rem;
+  padding-top: 8rem;
   border-top:1px solid rgba(0,0,0,.2)
 }
 

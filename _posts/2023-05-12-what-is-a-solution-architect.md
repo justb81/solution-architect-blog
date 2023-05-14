@@ -2,7 +2,7 @@
 layout: post
 title:  What is a Solution Architect?
 date:   2023-05-12 10:00:00
-categories: en everything
+categories: everything
 tags:
  - solution architect
  - responsibility
