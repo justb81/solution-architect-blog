@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Distinguishing Between Solution Architects and Enterprise Architects
-date:   2023-05-26 10:00:00
+date:   2023-05-26 00:00:00
 categories: everything
 tags:
  - solution architect
