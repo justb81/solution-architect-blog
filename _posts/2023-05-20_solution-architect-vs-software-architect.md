@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Understanding the Distinction Between Solution Architects and Software Architects
-date:   2023-05-26 10:00:00
+date:   2023-05-20 10:00:00
 categories: everything
 tags:
  - solution architect
