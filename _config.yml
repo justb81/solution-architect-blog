@@ -17,6 +17,7 @@ defaults:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-tagging-related_posts
 
 #Others
 markdown: kramdown
