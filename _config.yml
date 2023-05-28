@@ -7,7 +7,8 @@ description: This blog is about solution architecture, how to get a job, how to 
 page_excerpts    : true
 permalink: /:slugified_categories/:slug
 jekyll-archives:
-  enabled: []
+  enabled:
+    - categories
   layout: category
   permalinks:
     year: '/:year/'
