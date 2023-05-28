@@ -6,6 +6,15 @@ locale:       "en"
 description: This blog is about solution architecture, how to get a job, how to be a solution architect, best practises for all the topics and all the rest.
 page_excerpts    : true
 permalink: /:slugified_categories/:slug
+jekyll-archives:
+  enabled: []
+  layout: category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/:name/'
 defaults:            
   -
     scope:
@@ -16,6 +25,7 @@ defaults:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-archives
   - jekyll-sitemap
   - jekyll-tagging-related_posts
 
