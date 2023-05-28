@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Embracing the Role of a Solution Architect
-date:   
+date:   2023-05-28
 categories: life
 tags:
  - solution architect
