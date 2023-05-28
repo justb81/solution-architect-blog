@@ -14,7 +14,7 @@ permalink        : /imprint/
 ---
 # Impressum
 
-Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Angaben gemäß § 5 TMG und verantwortlich für journalistisch-redaktionelle Inhalte nach § 18 MStV::
 
 Bastian Rang  
 Stammheimer Str. 13
