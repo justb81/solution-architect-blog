@@ -3,6 +3,7 @@ layout: post
 title:  Distinguishing Between Solution Architects and Enterprise Architects
 date:   2023-05-26 00:00:00
 categories: everything
+excerpt_separator: <!--more-->
 tags:
  - solution architect
  - enterprise architect
@@ -12,6 +13,7 @@ tags:
  - responsibilities
 ---
 In the realm of technology and business strategy, the roles of solution architects and enterprise architects play pivotal roles in designing and implementing successful IT initiatives. However, these positions often get conflated, leading to confusion about their distinctions. Understanding the unique skill sets, qualifications, tasks, and responsibilities of solution architects and enterprise architects is crucial for organizations looking to optimize their IT infrastructure. In this article, we will explore the key differences between solution architects and enterprise architects.
+<!--more-->
 
 ## Skill Sets and Qualifications
 
