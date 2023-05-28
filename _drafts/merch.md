@@ -2,7 +2,7 @@
 layout: post
 title:  Why merchandising for solution architects?
 date:   
-categories: en life
+categories: life
 tags:
  - solution architect
  - t-shirt
