@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Solution Architecture Using No-Code Platforms: What is Important for Citizen Developers"
+title: "Solution Architecture Using No- & Low-Code Platforms: What is Important for Citizen Developers"
 tags: [solution architecture, no-code platforms, citizen developers, low-code development, scalability, security, data integration, user experience]
 categories: everything
 excerpt_separator: <!--more-->
 date:
 ---
-No-code platforms have revolutionized the way software solutions are built and deployed. These platforms empower citizen developers, individuals with no formal coding background, to create applications and automate processes without writing traditional code. Solution architecture plays a crucial role in ensuring that solutions built using no-code platforms are scalable, secure, and aligned with business needs. This blog post explores the key considerations and best practices for solution architecture when using no-code platforms, particularly focusing on the needs of citizen developers.
+No-code platforms have revolutionized the way software solutions are built and deployed. These platforms empower citizen developers, individuals with no formal coding background, to create applications and automate processes without writing traditional code. Solution architecture plays a crucial role in ensuring that solutions built using no-code and low-code platforms are scalable, secure, and aligned with business needs. This blog post explores the key considerations and best practices for solution architecture when using no-code platforms, particularly focusing on the needs of citizen developers.
 
 ## Empowering Citizen Developers
 
