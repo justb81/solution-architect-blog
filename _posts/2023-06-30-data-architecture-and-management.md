@@ -4,7 +4,7 @@ title: "Data Architecture and Management: Focus on the Design and Management of 
 tags: [data architecture, data management, solution architecture, data modeling, storage options, data integration]
 categories: everything
 excerpt_separator: <!--more-->
-date:
+date: 2023-06-30
 ---
 In today's data-driven world, effective data architecture and management are critical components of successful solution architecture. The design and management of data within a solution play a pivotal role in ensuring the availability, integrity, and usability of information.<!--more--> This blog post explores key aspects of data architecture and management, including data modeling, storage options, and data integration strategies, to help organizations build robust and scalable solutions.
 
